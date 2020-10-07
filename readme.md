@@ -1,5 +1,5 @@
   
-# pose estimation using posenet in brouser
+# pose estimation using posenet in browser
 
 ### below this are the obtained results
 ![result 1](results/2.png)
